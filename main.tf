@@ -103,7 +103,7 @@ module "alb" {
           port = 80
         }
         }
-      }
+      
     }
   ]
 
